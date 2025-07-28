@@ -13,7 +13,7 @@ In this lab we are going to build out a Movie application that has routes for a
 Home Page, Actors Page, Movie Page, and Directors Page. Our goal is to provide
 routes and links for these 4 pages.
 
-Let's work through this one component at a time.
+
 
 ## Setup
 
